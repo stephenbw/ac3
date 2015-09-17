@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # activityOverlord v2.0
 
 This is an application I'm building to learn Angular and how to integrate it with the new features of Sails.js v0.11.0.
@@ -25,3 +26,6 @@ This is an application I'm building to learn Angular and how to integrate it wit
 
 MIT
 &copy; 2015 Irl Nathan
+=======
+# test
+>>>>>>> 5288e8d026ffe7c04433a1a794d5b719ee45fd17
